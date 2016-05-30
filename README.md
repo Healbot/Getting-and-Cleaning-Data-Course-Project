@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 ## Readme
 
-This repo is the Course Project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning).
+This repo is the Course Project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning). Complete information on the source data [can be found here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ### Contents
 + `run_analysis.R` : single script that performs all the work
@@ -12,4 +12,3 @@ This repo is the Course Project for [Getting and Cleaning Data](https://www.cour
 
 ### Important
 This script requires 330MB to download, unzip, and output data
-
