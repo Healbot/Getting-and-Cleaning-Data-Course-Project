@@ -1,5 +1,5 @@
-# Code Book
-## Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
+## Code Book
 
 This document describes details of run_analysis.R
 
