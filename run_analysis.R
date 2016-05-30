@@ -67,4 +67,4 @@ levels(slim_data$Activity) <- activity_labels
 
 ## manipulate and write averages to file
 all_averages <- slim_data %>% group_by(Activity, Subject) %>% summarize_each(funs(mean))
-write.csv(all_averages, out_file)
+write.table(all_averages, out_file, row.name=FALSE)
